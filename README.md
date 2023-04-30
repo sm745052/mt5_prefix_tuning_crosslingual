@@ -35,6 +35,10 @@ For language selection, change path variable to the resective dataset.
 
 Our model achieves the following performance on :
 
-### [TyDiQA (All languages)]
+### [TyDiQA (All languages)](https://paperswithcode.com/sota/image-classification-on-imagenet)
 ![image](https://i.ibb.co/6bp1Py7/result.png)
 >The training has been done on only english data of TyDiQA train dataset. (set of 3696 English QA)
+
+
+train_dataset [https://drive.google.com/file/d/1VkrrOSJsHrHFYk1V1rZulLnF58CFmwIA/view?usp=share_link]
+checkpoint[https://drive.google.com/drive/folders/1w3FED9fuoIXI0UZxIzGMp61oPDgZoTtz?usp=share_link]

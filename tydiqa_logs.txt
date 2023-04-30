@@ -1,0 +1,73 @@
+trainable params: 368640 || all params: 582769920 || trainable%: 0.06325652497644353
+torch.Size([512])
+{'loss': 14.8004, 'learning_rate': 0.01968, 'epoch': 0.08}
+{'loss': 1.0923, 'learning_rate': 0.01936, 'epoch': 0.16}
+{'loss': 0.7173, 'learning_rate': 0.019039999999999998, 'epoch': 0.24}
+{'loss': 0.622, 'learning_rate': 0.01872, 'epoch': 0.32}
+{'loss': 0.5758, 'learning_rate': 0.0184, 'epoch': 0.4}
+{'loss': 0.7133, 'learning_rate': 0.018080000000000002, 'epoch': 0.48}
+{'loss': 0.427, 'learning_rate': 0.01776, 'epoch': 0.56}
+{'loss': 0.453, 'learning_rate': 0.01744, 'epoch': 0.64}
+{'loss': 0.4109, 'learning_rate': 0.01712, 'epoch': 0.72}
+{'loss': 0.4176, 'learning_rate': 0.0168, 'epoch': 0.8}
+{'loss': 0.4081, 'learning_rate': 0.016479999999999998, 'epoch': 0.88}
+{'loss': 0.3955, 'learning_rate': 0.01616, 'epoch': 0.96}
+{'eval_loss': 0.15092094242572784, 'eval_runtime': 1.6854, 'eval_samples_per_second': 59.335, 'eval_steps_per_second': 7.714, 'epoch': 1.0}
+{'loss': 0.3852, 'learning_rate': 0.01584, 'epoch': 1.04}
+{'loss': 0.3744, 'learning_rate': 0.01552, 'epoch': 1.12}
+{'loss': 0.4019, 'learning_rate': 0.0152, 'epoch': 1.2}
+{'loss': 0.3939, 'learning_rate': 0.01488, 'epoch': 1.28}
+{'loss': 0.3715, 'learning_rate': 0.01456, 'epoch': 1.36}
+{'loss': 0.3592, 'learning_rate': 0.01424, 'epoch': 1.44}
+{'loss': 0.3663, 'learning_rate': 0.01392, 'epoch': 1.52}
+{'loss': 0.3602, 'learning_rate': 0.013600000000000001, 'epoch': 1.6}
+{'loss': 0.3728, 'learning_rate': 0.01328, 'epoch': 1.68}
+{'loss': 0.3645, 'learning_rate': 0.012960000000000001, 'epoch': 1.76}
+{'loss': 0.3632, 'learning_rate': 0.01264, 'epoch': 1.84}
+{'loss': 0.3636, 'learning_rate': 0.01232, 'epoch': 1.92}
+{'loss': 0.3501, 'learning_rate': 0.012, 'epoch': 2.0}
+{'eval_loss': 0.14228162169456482, 'eval_runtime': 1.6855, 'eval_samples_per_second': 59.331, 'eval_steps_per_second': 7.713, 'epoch': 2.0}
+{'loss': 0.3586, 'learning_rate': 0.01168, 'epoch': 2.08}
+{'loss': 0.3434, 'learning_rate': 0.011359999999999999, 'epoch': 2.16}
+{'loss': 0.3627, 'learning_rate': 0.011040000000000001, 'epoch': 2.24}
+{'loss': 0.3395, 'learning_rate': 0.01072, 'epoch': 2.32}
+{'loss': 0.3509, 'learning_rate': 0.010400000000000001, 'epoch': 2.4}
+{'loss': 0.3415, 'learning_rate': 0.01008, 'epoch': 2.48}
+{'loss': 0.3556, 'learning_rate': 0.00976, 'epoch': 2.56}
+{'loss': 0.3825, 'learning_rate': 0.00944, 'epoch': 2.64}
+{'loss': 0.425, 'learning_rate': 0.009120000000000001, 'epoch': 2.72}
+{'loss': 0.3674, 'learning_rate': 0.0088, 'epoch': 2.8}
+{'loss': 0.3526, 'learning_rate': 0.00848, 'epoch': 2.88}
+{'loss': 0.3351, 'learning_rate': 0.008159999999999999, 'epoch': 2.96}
+{'eval_loss': 0.13553641736507416, 'eval_runtime': 1.7047, 'eval_samples_per_second': 58.663, 'eval_steps_per_second': 7.626, 'epoch': 3.0}
+{'loss': 0.3486, 'learning_rate': 0.00784, 'epoch': 3.04}
+{'loss': 0.3616, 'learning_rate': 0.00752, 'epoch': 3.12}
+{'loss': 0.3439, 'learning_rate': 0.0072, 'epoch': 3.2}
+{'loss': 0.3467, 'learning_rate': 0.00688, 'epoch': 3.28}
+{'loss': 0.3361, 'learning_rate': 0.006560000000000001, 'epoch': 3.36}
+{'loss': 0.3405, 'learning_rate': 0.00624, 'epoch': 3.44}
+{'loss': 0.3482, 'learning_rate': 0.00592, 'epoch': 3.52}
+{'loss': 0.3445, 'learning_rate': 0.005600000000000001, 'epoch': 3.6}
+{'loss': 0.3399, 'learning_rate': 0.00528, 'epoch': 3.68}
+{'loss': 0.3406, 'learning_rate': 0.00496, 'epoch': 3.76}
+{'loss': 0.3337, 'learning_rate': 0.00464, 'epoch': 3.84}
+{'loss': 0.3317, 'learning_rate': 0.00432, 'epoch': 3.92}
+{'loss': 0.3358, 'learning_rate': 0.004, 'epoch': 4.0}
+{'eval_loss': 0.1375720202922821, 'eval_runtime': 1.687, 'eval_samples_per_second': 59.275, 'eval_steps_per_second': 7.706, 'epoch': 4.0}
+{'loss': 0.3332, 'learning_rate': 0.00368, 'epoch': 4.08}
+{'loss': 0.3373, 'learning_rate': 0.00336, 'epoch': 4.16}
+{'loss': 0.3313, 'learning_rate': 0.00304, 'epoch': 4.24}
+{'loss': 0.3351, 'learning_rate': 0.00272, 'epoch': 4.32}
+{'loss': 0.3401, 'learning_rate': 0.0024, 'epoch': 4.4}
+{'loss': 0.3441, 'learning_rate': 0.00208, 'epoch': 4.48}
+{'loss': 0.3356, 'learning_rate': 0.0017599999999999998, 'epoch': 4.56}
+{'loss': 0.3302, 'learning_rate': 0.0014399999999999999, 'epoch': 4.64}
+{'loss': 0.3327, 'learning_rate': 0.0011200000000000001, 'epoch': 4.72}
+{'loss': 0.3311, 'learning_rate': 0.0008, 'epoch': 4.8}
+{'loss': 0.3351, 'learning_rate': 0.00048, 'epoch': 4.88}
+{'loss': 0.3315, 'learning_rate': 0.00016, 'epoch': 4.96}
+{'eval_loss': 0.13238900899887085, 'eval_runtime': 1.6881, 'eval_samples_per_second': 59.239, 'eval_steps_per_second': 7.701, 'epoch': 5.0}
+{'train_runtime': 5761.3557, 'train_samples_per_second': 43.393, 'train_steps_per_second': 5.424, 'train_loss': 0.6210310869140625, 'epoch': 5.0}
+predicted:  ['September 24, 2013 ', 'Verité ', 'the ', 'p  or from a spindle hole that was not precisely centered ', '1970 ', '1968 ', ' long distances ', 'evergreens and oaks ', 'May 30, 2006 ', '5.2% ']
+ground truth:  ['September 24, 2013 ', 'Verité ', 'president ', 'warp, or from a spindle hole that was not precisely centered ', '1970 ', '1968 ', 'travel long distances ', 'evergreens and oaks ', 'May 30, 2006 ', '8.2% ']
+{'exact_match': 35.0, 'f1': 67.047486330095}

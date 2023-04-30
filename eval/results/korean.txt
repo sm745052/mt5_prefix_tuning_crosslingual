@@ -1,0 +1,8 @@
+Downloading and preparing dataset json/default to /home/btp/.cache/huggingface/datasets/json/default-1010c080c0c93284/0.0.0/da492aad5680612e4028e7f6ddc04b1dfcec4b64db470ed7cc5f2bb265b9b6b5...
+Dataset json downloaded and prepared to /home/btp/.cache/huggingface/datasets/json/default-1010c080c0c93284/0.0.0/da492aad5680612e4028e7f6ddc04b1dfcec4b64db470ed7cc5f2bb265b9b6b5. Subsequent calls will reuse this data.
+['title', 'paragraphs', 'id', 'context', 'question', 'answers']
+loading checkpoint
+trainable params: 294912 || all params: 582696192 || trainable%: 0.050611623011945134
+predicted:  ['사 관 ', '지역 조정 ', '1901년부터', '161년 ', '1096년', '16번', '필터스 필드 ', '220년 ~', '칸급 6 지왕같이 지배하는 여교사 아쿠츠 마야(아마미 유키)와 한자이 초등학교', '1월 1일 ', '아이치현 도요가케 시 오케하자마코센조덴세쓰치 ', '8년 8월 15일에', '프레디 머큐리 ', '1945년 8월 15일에', '베이어 - 동사 - 목적어 (', '얼 Branch Cycle ', '1930년 ', '홍나이고', '1875년 음력 2월 20일 ', '1930년', '보 매', '아나폴리스 ', '대학원생노동인권침해와 노동권 착취  대응하기하기', '2010년 3월 19일 여성', '52장']
+ground truth:  ['군사령관 ', '지역 조정 ', '1901년 ', '161년 ', '1176 ', '16 ', '포터스 필드 ', '206년 ', '학급을 여왕같이 지배하는 여교사 아쿠츠 마야(아마미 유키)와 한자이 ', '1월 1일 ', '아이치현 도요아케 시 오케하자마코센조덴세쓰치 ', '1945년 8월 15일 ', '프레디 머큐리 ', '1945년 8월 15일 ', '주어 - 동사 - 목적어 ', 'Red Branch Cycle ', '1930년 ', '사나 ', '1876년 음력 2월 3일 ', '1930 ', '미국 ', '아나폴리스 ', '대학원생 인권침해와 노동권 착취에 대응 ', '2010년 3월 19일 ', '52 ']
+{'exact_match': 26.81159420289855, 'f1': 46.08237834907591}
